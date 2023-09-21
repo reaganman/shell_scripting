@@ -1,0 +1,6 @@
+ExampleAlignment1.fasta
+total seqs: 50
+total bp: 9800
+ExampleAlignment2.fasta
+total seqs: 50
+total bp: 9604
